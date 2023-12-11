@@ -23,6 +23,7 @@ app.use(cors({
         'http://localhost/libros',
         'http://apiproductos-fs39.onrender.com',
         'http://frontend-h07.onrender.com',
+        'https://frontend-0fcx.onrender.com/login'
     ],
 
     credentials: true
