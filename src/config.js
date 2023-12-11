@@ -1,1 +1,1 @@
-export const TOKEN_SECRET = 'mapaches.2023#'
+export const TOKEN_SECRET = '6Lc85i0pAAAAAE9hqHp10fsD2v_Tyt5b6ZMO8DVk'
